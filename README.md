@@ -1,5 +1,9 @@
 # AAC tool for Nonverbal Autism using Gemini
 
+# Usecase
+
+AAC tools helps Nonverbal autistic individuals to communicate .
+
 ## Demo
 
 https://github.com/user-attachments/assets/9dcb4ad9-e907-436a-a6a9-0bb09225e741
